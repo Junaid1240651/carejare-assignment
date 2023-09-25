@@ -61,8 +61,7 @@ const Appointment = () => {
                   <p>
                     <img
                       className="book-appoinment-img"
-                      src="https://private-user-images.githubusercontent.com/86207985/270438330-1b6557b0-2f72-42b1-aa2f-2c4e740c0a5e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTU2NjY3MzAsIm5iZiI6MTY5NTY2NjQzMCwicGF0aCI6Ii84NjIwNzk4NS8yNzA0MzgzMzAtMWI2NTU3YjAtMmY3Mi00MmIxLWFhMmYtMmM0ZTc0MGMwYTVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTI1VDE4MjcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3Yjc5M2JhNmFmODFkMmM0YzNhMTYyNWUxN2I5OTA2ZjRkZDIwZTQ3YjUxZGE5NjExYzc1ZjY1N2JlMjRhNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ou89KoL0P07VrdiuJjzI90k-d-L9vrFTMvARDnA885s"
-                      alt="Available Today"
+                      src="https://private-user-images.githubusercontent.com/86207985/270438330-1b6557b0-2f72-42b1-aa2f-2c4e740c0a5e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTU2Njc5NDQsIm5iZiI6MTY5NTY2NzY0NCwicGF0aCI6Ii84NjIwNzk4NS8yNzA0MzgzMzAtMWI2NTU3YjAtMmY3Mi00MmIxLWFhMmYtMmM0ZTc0MGMwYTVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTI1VDE4NDcyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyNGQ1MjQ2YjJiM2I3OGFhMTllYTIxM2VhODhkZDA0MzMzNTA2Y2U3MzU3Y2NiM2RjYzMyMGNmNDBlMmU5ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ch04Y8upA1l_180WIrFX7Mq19pkzqafvZ6u1uyYmlNo"
                     />
                     Available Today
                   </p>
